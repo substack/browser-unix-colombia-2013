@@ -1,5 +1,7 @@
 # unix in the browser
 
+![title](images/title.png)
+
 # why
 
 "the web is the operating system"
@@ -36,6 +38,10 @@ permissions model
 ```
 (user << 6) + (group << 3) + other
 ```
+
+![permisos](images/permisos.png)
+
+hay muchos grupos para cada función de seguridad
 
 cache manifest bootloader
 
