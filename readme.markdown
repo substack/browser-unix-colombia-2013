@@ -2,24 +2,23 @@
 
 ![title](images/title.png)
 
-# why
+# unix
 
-"the web is the operating system"
+![unix](images/unix.png)
 
-![web](images/web.png)
+hacer una cosa bien
 
-write once, run anywhere
+![1](images/one.png)
 
-the web is the world's most successful universal application vm
+# movils
 
-![vm](images/vm.png)
+![movil telefonica](images/movil.png)
 
-if you have a vm...
-why not unix!!!!
+![movils suck](images/no_movil.png)
 
-mostly empty vm
+![tablet](images/tablet.png)
 
-the operating system should be unix
+![suck tambien](images/no_tablet.png)
 
 # operating systems
 
@@ -47,7 +46,11 @@ cache manifest bootloader
 
 * package management
 
-# if we can get unix working in the browser...
+![npm](images/npm.png)
+
+![modularidad revolucionario](images/modularidad.png)
+
+![{"cwd":"example/pkg"}](images/terminal_red.png)
 
 node is a set of compatability apis for low-level unix syscalls
 
@@ -55,24 +58,26 @@ increasingly, so is the browser!
 
 why not also get it working in windows?
 
-# unix
+![browserify](images/browserify.png)
 
-## everything is a file
+![{"cwd":"example/browser"}](images/terminal_blue.png)
 
-level-fs-browser
+![anarchyos](images/anarchyos.png)
 
-## pipes
+![bash](images/bash.png)
 
-## the usual tools
+![{"cwd":"example/bash"}](images/terminal_red.png)
 
-# terminal
+![leveldb](images/leveldb.png)
 
-# package managers
+![{"cwd":"example/level"}](images/terminal_blue.png)
 
-we don't need an "app store"
-we need a package manager
-ideally one with completely vendored installation
+![levelfs](images/levelfs.png)
 
-(anarchy os image goes here)
+![{"cwd":"example/levelfs"}](images/terminal_yellow.png)
 
-mmalecki already started writing one!
+![todos](images/todos.png)
+
+![{"cwd":"example/todos"}](images/terminal_red.png)
+
+![title](images/title.png)
