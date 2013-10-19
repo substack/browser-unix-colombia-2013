@@ -8,7 +8,7 @@
 
 hacer una cosa bien
 
-![1](images/one.png)
+![1](images/una_cosa.png)
 
 # movils
 
@@ -74,7 +74,7 @@ why not also get it working in windows?
 
 ![levelfs](images/levelfs.png)
 
-![{"cwd":"example/levelfs"}](images/terminal_yellow.png)
+![{"cwd":"example/level-fs"}](images/terminal_yellow.png)
 
 ![todos](images/todos.png)
 
